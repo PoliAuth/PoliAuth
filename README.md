@@ -61,6 +61,8 @@ https://github.com/PoliAuth/PoliAuthenticator/
 
 Just install the extension from the store
 
+https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+
 #### Chrome (& others)
 
 Download the zip file, extract it and follow https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/ this guide, remember not to move the folder once installed, otherwise Chrome won't find it anymore
