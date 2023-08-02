@@ -6,7 +6,8 @@
 
 Scarica l'installer, fai doppio click e aspetta che finisca. Ti dirà anche dove trovare il programma una volta installato. Puoi riavviare l'installer ogni tanto per ottenere sempre l'ultima versione
 
-https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+[https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+](https://github.com/PoliAuth/PoliAuthInstaller/releases/download/v1.0.0/PoliAuth_Installer.exe)
 
 ### MacOS
 
@@ -40,7 +41,8 @@ https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthW
 
 Download the installer, double click and wait for it to finish. It will also tell you where to find the program once installed. You can restart the installer every once in a while to always get the latest version
 
-https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+[https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+](https://github.com/PoliAuth/PoliAuthInstaller/releases/download/v1.0.0/PoliAuth_Installer.exe)
 
 ### MacOS
 
